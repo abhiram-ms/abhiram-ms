@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **flutter,dart,godot,**
 
-- 👨‍💻 All of my projects are here [https://www.linkedin.com/in/abhiram-ms/](https://www.linkedin.com/in/abhiram-ms/)
+- 👨‍💻 My projects are here [https://www.linkedin.com/in/abhiram-ms/details/projects/](https://www.linkedin.com/in/abhiram-ms/details/projects/)
 
-- 💬 Ask me about **flutter,dart,html..etc**
+- 💬 Ask me about **flutter, python, dart, HTML..etc**
 
 - 📫 How to reach me **abhiramsailu30@gmail.com**
 
