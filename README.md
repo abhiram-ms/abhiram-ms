@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhiram MS</h1>
-<h3 align="center">A passionate frontend and Backend flutter developer from India</h3>
+<h3 align="center">A passionate frontend and Backend developer from India</h3>
 
 <img align="right" alt="best coder" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
@@ -8,11 +8,11 @@
 
 - 🔭 I'have currently worked on [Election_dapp using flutter](https://github.com/abhiram-ms/election_dapp_)
 
-- 🌱 I’m currently learning **flutter,dart,godot,**
+- 🌱 I’m currently learning **flutter,React Native,godot,**
 
 - 👨‍💻 My projects are here [https://www.linkedin.com/in/abhiram-ms/details/projects/](https://www.linkedin.com/in/abhiram-ms/details/projects/)
 
-- 💬 Ask me about **flutter, python, dart, HTML..etc**
+- 💬 Ask me about **flutter, React Native, HTML/CSS..etc**
 
 - 📫 How to reach me **abhiramsailu30@gmail.com**
 
